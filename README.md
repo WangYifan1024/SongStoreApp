@@ -24,12 +24,12 @@ SongStoreApp is a simple song management application that allows users to create
 - Participated in project testing and documentation.
 
 # Features: 
-- ** Create playlists: ** Users can create their own playlists and give them a name and description.
-- ** Add songs: ** Users can add new songs to the playlist, including information such as song name, artist, and length.
-- **CRUD operations: ** Provides CRUD operations on songs, including adding, updating, and deleting songs.
-- ** Search function: ** Users can search for songs by song title or artist name and view related information.
-- ** Report View: ** provides a variety of reporting features, including listing all songs, listing verified artist songs, and more.
-- ** Data persistence: ** XStream components are used to serialize and deserialize playlists and songs to achieve persistent data storage.
+- * Create playlists: * Users can create their own playlists and give them a name and description.
+- * Add songs: * Users can add new songs to the playlist, including information such as song name, artist, and length.
+- *CRUD operations: * Provides CRUD operations on songs, including adding, updating, and deleting songs.
+- * Search function: * Users can search for songs by song title or artist name and view related information.
+- * Report View: * provides a variety of reporting features, including listing all songs, listing verified artist songs, and more.
+- * Data persistence: * XStream components are used to serialize and deserialize playlists and songs to achieve persistent data storage.
 
 # How does it work: 
 1. Clone or download the repository to a local computer.

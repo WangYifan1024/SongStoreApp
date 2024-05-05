@@ -1,9 +1,9 @@
-** Project name: ** SongStoreApp
+* Project name:* SongStoreApp
 
-** Project Introduction: **
+* Project Introduction: *
 SongStoreApp is a simple song management application that allows users to create playlists, add songs, CRUD songs, search songs, view reports, and more. The application is developed in Java programming language, using object-oriented design concept and basic data persistence technology.
 
-** Contributors: **
+* Contributors: *
 
 1. **Haoyang Xu**
 - Responsible for the initial construction and design of the project.
